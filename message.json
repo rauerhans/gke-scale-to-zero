@@ -1,0 +1,7 @@
+{
+    "project_id": "luegnix",
+    "location": "europe-west1",
+    "cluster_id": "luegnix-gke",
+    "node_pool_id": "small-burst-on-demand",
+    "node_count": 0
+}
