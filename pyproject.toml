@@ -9,8 +9,6 @@ packages = [{include = "gke_scale_to_zero"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 google-cloud-pubsub = "^2.14"
-google-cloud-container = "^2.17"
-
 
 [build-system]
 requires = ["poetry-core"]
